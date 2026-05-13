@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "points": 10,
-  "streak": 2,
-  "lastActiveDate": "2026-04-18",
+  "points": 11,
+  "streak": 1,
+  "lastActiveDate": "2026-05-13",
   "lastCompletedIdsByType": {
     "sunspot": "sp-3240",
-    "magnetogram": "mg-3238"
+    "magnetogram": "mg-5686"
   },
-  "updatedAt": "2026-04-18T02:59:50.369Z"
+  "updatedAt": "2026-05-13T13:57:22.963Z"
 }
