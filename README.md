@@ -19,7 +19,7 @@ SolarHub uses this public repo only to persist a tiny JSON file that tracks whic
 - `points`: integer — total points you've earned
 - `streak`: integer — consecutive-day contribution streak
 - `lastActiveDate`: string|null — ISO date of last activity
-- `lastCompletedIdsByType`: object — per-task-type cursor
+- `lastCompletedIdsByType`: object — per-task-type cursor (only `sunspot` and `magnetogram`)
 
 The `lastCompletedIdsByType` object stores the last completed ID for each type so the app can resume on the next image.
 
