@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "points": 29,
+  "points": 30,
   "streak": 0,
   "lastActiveDate": "2026-11-18",
   "lastCompletedIdsByType": {
-    "sunspot": "sp-11921",
+    "sunspot": "sp-12007",
     "magnetogram": "mg-12007",
     "aia_94": "aia94-146464",
     "aia_131": "aia131-152636",
@@ -16,5 +16,5 @@
     "aia_1600": "aia1600-114553",
     "aia_1700": "aia1700-114320"
   },
-  "updatedAt": "2026-11-18T15:21:23.317Z"
+  "updatedAt": "2026-11-18T20:28:42.503Z"
 }
