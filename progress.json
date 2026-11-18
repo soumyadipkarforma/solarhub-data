@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "points": 30,
+  "points": 31,
   "streak": 0,
   "lastActiveDate": "2026-11-18",
   "lastCompletedIdsByType": {
@@ -8,7 +8,7 @@
     "magnetogram": "mg-12007",
     "aia_94": "aia94-146464",
     "aia_131": "aia131-152636",
-    "aia_171": "aia171-152540",
+    "aia_171": "aia171-152508",
     "aia_193": null,
     "aia_211": null,
     "aia_304": null,
@@ -16,5 +16,5 @@
     "aia_1600": "aia1600-114553",
     "aia_1700": "aia1700-114320"
   },
-  "updatedAt": "2026-11-18T20:28:42.503Z"
+  "updatedAt": "2026-11-18T20:29:45.239Z"
 }
