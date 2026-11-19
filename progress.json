@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "points": 36,
+  "points": 37,
   "streak": 1,
   "lastActiveDate": "2026-11-19",
   "lastCompletedIdsByType": {
@@ -15,7 +15,7 @@
     "aia_335": null,
     "aia_1600": "aia1600-114553",
     "aia_1700": "aia1700-114320",
-    "flare_source": "flare-3b0fa2f8d0"
+    "flare_source": "flare-4d0673e509"
   },
-  "updatedAt": "2026-11-19T15:39:07.544Z"
+  "updatedAt": "2026-11-19T15:39:27.159Z"
 }
