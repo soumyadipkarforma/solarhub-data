@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "points": 38,
+  "points": 39,
   "streak": 1,
   "lastActiveDate": "2026-11-19",
   "lastCompletedIdsByType": {
@@ -9,7 +9,7 @@
     "aia_94": "aia94-146464",
     "aia_131": "aia131-152636",
     "aia_171": "aia171-152508",
-    "aia_193": null,
+    "aia_193": "aia193-153039",
     "aia_211": null,
     "aia_304": null,
     "aia_335": null,
@@ -17,5 +17,5 @@
     "aia_1700": "aia1700-114320",
     "flare_source": "flare-52e97c0b44"
   },
-  "updatedAt": "2026-11-19T15:39:42.212Z"
+  "updatedAt": "2026-11-19T19:54:22.247Z"
 }
