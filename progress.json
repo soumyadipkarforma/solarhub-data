@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "points": 31,
-  "streak": 0,
-  "lastActiveDate": "2026-11-18",
+  "points": 32,
+  "streak": 1,
+  "lastActiveDate": "2026-11-19",
   "lastCompletedIdsByType": {
     "sunspot": "sp-12007",
     "magnetogram": "mg-12007",
@@ -14,7 +14,8 @@
     "aia_304": null,
     "aia_335": null,
     "aia_1600": "aia1600-114553",
-    "aia_1700": "aia1700-114320"
+    "aia_1700": "aia1700-114320",
+    "flare_source": "flare-1cc7dfeb48"
   },
-  "updatedAt": "2026-11-18T20:29:45.239Z"
+  "updatedAt": "2026-11-19T15:36:56.138Z"
 }
